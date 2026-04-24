@@ -1,2 +1,2 @@
 # heart-disease-data-preprocessing
-First project
+First AI project
